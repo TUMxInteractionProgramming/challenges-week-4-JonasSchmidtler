@@ -26,7 +26,7 @@ function switchChannel(channelName) {
 
 /* #6 #liking a channel on #click */
 function star() {
-    $('#channel-star').attr('src', 'http://ip.lfe.mw.tum.de/sections/star.png');
+    $('#appbarstar').toggleClass('far fa-star fas fa-star');
 }
 
 /**
