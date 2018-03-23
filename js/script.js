@@ -52,9 +52,3 @@ function toggleEmojis() {
     $('#emojis').toggle(); // #toggle
 }
 
-function sendMessage(text) {
-  var message = new Message(
-    $('input[text = "Hello Chatter"]').val(),
- 
-
-}
