@@ -51,3 +51,7 @@ function toggleEmojis() {
     /* $('#emojis').show(); // #show */
     $('#emojis').toggle(); // #toggle
 }
+
+function sendMessage() {
+    alert('Hello Chatter');
+}
