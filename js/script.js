@@ -53,5 +53,6 @@ function toggleEmojis() {
 }
 
 function sendMessage() {
-    alert('Hello Chatter');
+    function Message();
+    text('Hello Chatter');
 }
