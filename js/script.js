@@ -26,7 +26,7 @@ function switchChannel(channelName) {
 
 /* #6 #liking a channel on #click */
 function star() {
-    $('#appbarstar').toggleClass('far fa-star fas fa-star');
+    $('i').toggleClass('far fa-star fas fa-star');
 }
 
 /**
